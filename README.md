@@ -196,3 +196,7 @@ short"
 "polytroper-bug"
 
 ![](polytroper-bug.png)
+
+"StealthAdder-SAD_Dino"
+
+![](StealthAdder-SAD_Dino.png)
